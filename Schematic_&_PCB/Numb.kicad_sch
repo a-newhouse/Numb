@@ -1,0 +1,94 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "76da2c7e-d261-4bfc-8577-1420ca47775f")
+	(paper "USLetter" portrait)
+	(title_block
+		(title "Numb")
+		(date "2024-12-08")
+		(company "a.newhouse")
+	)
+	(lib_symbols)
+	(sheet
+		(at 13.97 16.51)
+		(size 29.21 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1d0a1857-a6d4-4389-826d-f129ecec3e34")
+		(property "Sheetname" "Microcontroller"
+			(at 13.97 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Microcontroller.kicad_sch"
+			(at 13.97 20.9046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Numb"
+				(path "/76da2c7e-d261-4bfc-8577-1420ca47775f"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 13.97 25.4)
+		(size 34.29 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e7692f84-3aa1-4d59-8d84-62a3e4dae213")
+		(property "Sheetname" "LEDs_&_MatrixSwitch"
+			(at 13.97 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LEDs_&_MatrixSwitch.kicad_sch"
+			(at 13.97 29.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Numb"
+				(path "/76da2c7e-d261-4bfc-8577-1420ca47775f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "3")
+		)
+	)
+)
