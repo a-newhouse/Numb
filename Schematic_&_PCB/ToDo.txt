@@ -1,2 +1,3 @@
 - Reposition the diode
 - change the the usb connector
+- Change the MCU >:|
